@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: CP864.h
-Description: CP864 (VGA Code Page 864) font for DisplayCore
+Description: CP864 (VGA Code Page 864)
