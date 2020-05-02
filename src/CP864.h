@@ -1,7 +1,7 @@
 #ifndef _CP864_H
 #define _CP864_H
 
-#include <DisplayCore.h>
+#include <Cariad.h>
 
 namespace Fonts {
     extern const uint8_t CP864[];
